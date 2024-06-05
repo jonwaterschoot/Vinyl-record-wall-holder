@@ -61,6 +61,8 @@ One handy 'hack' that I used to repeat some animations: use one frame to put som
 
 ![Blender render freestyle outline](img/vinylholder_render600.jpg)
 
+![Blender render freestyle outline banner](img/vinylholder_blender_githubbanner.png)
+
 ## Lasercuting: Made for 3.2mm thickness
 
 The press-fit mounting was made with the Kerf of my machine in mind and for plywood with a 3.2mm thickness.
