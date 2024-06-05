@@ -32,7 +32,9 @@ My logic isn't yours. >_<
 
 From idea > to Blender sketch > to cardboard > to Inkscape > Lasercut > Blender animation 
 
-<video src="img/vynilholders-shortreel.mp4" width="400"/>
+<video width="auto" height="auto" controls>
+  <source src="img/vynilholders-shortreel.mp4" type="video/mp4">
+</video>
 
 ![instagram reel](img/vynilholders-shortreel.mp4)
 
