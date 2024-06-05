@@ -32,6 +32,8 @@ My logic isn't yours. >_<
 
 From idea > to Blender sketch > to cardboard > to Inkscape > Lasercut > Blender animation 
 
+<video src="img/vynilholders-shortreel.mp4" width="400"/>
+
 ![instagram reel](img/vynilholders-shortreel.mp4)
 
 ### Inkscape
