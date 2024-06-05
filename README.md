@@ -2,7 +2,7 @@
 
 I made my own version based on a picture my son sent me from a record store.
 
-![instructions demo](img\instructions_600.gif)
+![instructions demo](\img\instructions_600.gif)
 
 This looked like and is a very basic / easy design, yet I enjoyed taking my time.
 
